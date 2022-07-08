@@ -69,7 +69,7 @@
     "debug": "^4.3.4"
   },
   "devDependencies": {
-    "@strapi/strapi": "^4.1.5",
+    "@fathom3-dev/strapi": "^1.0.0",
     "koa": "^2.11.0",
     "npm-run-all": "^4.1.5",
     "react": "^17.0.2",
@@ -79,7 +79,7 @@
     "styled-components": "^5.2.3"
   },
   "peerDependencies": {
-    "@fathom3-dev/strapi": "^4.0.5"
+    "@fathom3-dev/strapi": "^1.0.0"
   },
   "engines": {
     "node": ">=14.0.0",
