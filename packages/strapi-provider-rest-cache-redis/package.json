@@ -57,12 +57,12 @@
     "cache-manager-ioredis": "^2.1.0"
   },
   "devDependencies": {
-    "@fathom3-dev/strapi": "^4.1.5",
+    "@fathom3-dev/strapi": "^1.0.0",
     "strapi-plugin-redis": "^1.0.0-alpha.2",
     "strapi-plugin-rest-cache": "^4.2.4"
   },
   "peerDependencies": {
-    "@fathom3-dev/strapi": "^4.0.0",
+    "@fathom3-dev/strapi": "^1.0.0",
     "strapi-plugin-rest-cache": "^4.0.0"
   },
   "engines": {
